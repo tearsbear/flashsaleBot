@@ -1,0 +1,10 @@
+certifi==2020.6.20
+cffi==1.14.0
+cryptography==2.9.2
+decorator==4.4.2
+pycparser==2.20
+python-dateutil==2.8.1
+python-telegram-bot==12.8
+schedule==0.6.0
+six==1.15.0
+tornado==6.0.4
