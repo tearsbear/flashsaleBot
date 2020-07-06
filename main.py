@@ -9,7 +9,7 @@ active = True
 PRODUKNYA, PENGINGAT, BATAL = range(3) 
 
 def start(update, context):
-  update.message.reply_text('okay');
+  # update.message.reply_text('okay');
   update.message.reply_text(reply_markup=ForceReply(selective=True), text='Masukan link produk')  
   return PRODUKNYA
  
